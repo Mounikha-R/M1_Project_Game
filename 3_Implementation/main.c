@@ -8,7 +8,6 @@
 #include "exit.h"
 #include "input.h"
 #include "output.h"
-#include "terminal.h"
 #include "timer.h"
 
 int main(int argc, char *argv[]) {

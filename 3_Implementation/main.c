@@ -3,17 +3,15 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "args.h"
-#include "data.h"
-#include "exit.h"
+
 #include "input.h"
 #include "output.h"
-#include "timer.h"
+
 
 int main(int argc, char *argv[]) {
     tt.time = 60;
-    tt.avg_length = 4.79;
-    tt.print_index = 0;
+    tt.avglength = 4.79;
+    tt.printindex = 0;
     int filename = 1;
     for (int i = 1; i < argc; i++) {
         filename = parse_argument(argv[i]);
@@ -23,9 +21,7 @@ int main(int argc, char *argv[]) {
         return 0;
     }
 
-    init_terminal();
-    parse_text();
-    print_text();
+  
 
     while (1) {
         process_keypress();

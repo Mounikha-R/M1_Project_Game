@@ -21,3 +21,11 @@ SWOT analysis
      Weakness  : Accurate time speed calculation always.
      Oppurtunities : Develop ones Typing skills.
      Threats   : Not well sophisticated.
+     
+4 W's 1 
+
+     What  : Typing Game
+     Where : System / Laptop
+     When  : need of developing skills
+     Whom  : Anyone with personal digital divices      
+     How   : Matching the users input with already given words.

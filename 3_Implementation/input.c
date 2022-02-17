@@ -5,13 +5,11 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "data.h"
-#include "exit.h"
-#include "helper.h"
+
+
 #include "input.h"
 #include "output.h"
-#include "terminal.h"
-#include "timer.h"
+
 
 void parse_text() {
     tt.buffer = 0;

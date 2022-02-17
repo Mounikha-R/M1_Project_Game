@@ -14,3 +14,10 @@ Requirements
 
           LLR1   Knowledge of English Language
           LLR2   A System to play the game with C extensions.
+          
+SWOT analysis
+
+     Strengths : Easy to play and learn their level of typing.
+     Weakness  : Accurate time speed calculation always.
+     Oppurtunities : Develop ones Typing skills.
+     Threats   : Not well sophisticated.

@@ -31,5 +31,4 @@ SWOT analysis
      How   : Matching the users input with already given words.
      
 Flowchart
-
      ![flowchart](https://user-images.githubusercontent.com/59721857/154510478-95395dff-2c6c-49f1-b90d-fa613c64c05f.jpg)

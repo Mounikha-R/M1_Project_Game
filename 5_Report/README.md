@@ -22,7 +22,7 @@ SWOT analysis
      Oppurtunities : Develop ones Typing skills.
      Threats   : Not well sophisticated.
      
-4 W's 1 
+4 W's & 1 H
 
      What  : Typing Game
      Where : System / Laptop

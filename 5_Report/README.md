@@ -35,3 +35,6 @@ SWOT analysis
      
 # Class Diagram
   [classdiagram](https://user-images.githubusercontent.com/59721857/154511623-6fc20c64-501d-486b-a057-e2b15626957a.jpg)
+  
+# Output
+![output](https://user-images.githubusercontent.com/59721857/154512049-fa908cab-adf5-4af6-a56e-7de6c32c0395.jpg)

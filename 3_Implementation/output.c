@@ -80,6 +80,6 @@ void print_score() {
 }
 void refresh_screen() {
     clr_screen;
-    crspostop;
+    crspoptop;
 }
 

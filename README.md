@@ -25,3 +25,7 @@ Folder structure
     4_Testplan              Documents with test plan and procedures
     
     5_Images&videos         Screenshots of the working code  
+
+
+# Output
+![output](https://user-images.githubusercontent.com/59721857/154501142-e1246c0f-328d-4ab9-95f4-6b7924cb8826.jpg)

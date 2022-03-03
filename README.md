@@ -14,10 +14,14 @@
 
 Folder structure
 
-    Folder                       Description
+         Folder                       Description
 
-1_Requirements          Documents detailing requirements and research
-2_Architecture          Documents specifying design details
-3_Implementation        All code and documentation
-4_Testplan              Documents with test plan and procedures
-5_Images&videos         Screenshots of the working code  
+    1_Requirements          Documents detailing requirements and research
+
+    2_Architecture          Documents specifying design details
+    
+    3_Implementation        All code and documentation
+    
+    4_Testplan              Documents with test plan and procedures
+    
+    5_Images&videos         Screenshots of the working code  

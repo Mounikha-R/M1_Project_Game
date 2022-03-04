@@ -1,4 +1,4 @@
-High Level Test Plan
+# High Level Test Plan
 
       --ID            Description                             Status(Implemented/Future)
      
@@ -6,7 +6,7 @@ High Level Test Plan
       HLR2   If one word is missed then game ends.                Implemented
 
 
-Low Level Test Plan
+# Low Level Test Plan
 
       --ID           Description                              Status(Implemented/Future)
       

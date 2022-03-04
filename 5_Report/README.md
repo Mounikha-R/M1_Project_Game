@@ -1,10 +1,9 @@
-Introduction
+# Introduction
 
      This is a Typing Game Mini Project in c language that helps people to find their typing skill.
 
 
-Requirements
-
+# Requirements
     High Level Requirements
 
           --ID                Description                             Status(Implemented/future)
@@ -22,7 +21,7 @@ Requirements
           LLr3   Typing keyboard                                           Implemented
 
           
-SWOT analysis
+# SWOT analysis
 
      Strengths : Easy to play and learn their level of typing.
 
@@ -33,7 +32,7 @@ SWOT analysis
      Threats   : Not well sophisticated.
      
 
-4W's and 1H's
+# 4W's and 1H's
 
      What  : Typing Game
 

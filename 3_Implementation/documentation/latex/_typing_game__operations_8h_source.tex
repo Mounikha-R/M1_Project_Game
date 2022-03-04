@@ -1,0 +1,36 @@
+\hypertarget{_typing_game__operations_8h_source}{}\doxysection{Typing\+Game\+\_\+operations.\+h}
+\label{_typing_game__operations_8h_source}\index{D:/M1\_TypingSpeed\_Game/3\_Implementation/inc/TypingGame\_operations.h@{D:/M1\_TypingSpeed\_Game/3\_Implementation/inc/TypingGame\_operations.h}}
+\mbox{\hyperlink{_typing_game__operations_8h}{Go to the documentation of this file.}}
+\begin{DoxyCode}{0}
+\DoxyCodeLine{1 }
+\DoxyCodeLine{8 \textcolor{preprocessor}{\#ifndef \_\_TypingGame\_OPERATIONS\_H\_\_}}
+\DoxyCodeLine{9 \textcolor{preprocessor}{\#define \_\_TypingGame\_OPERATIONS\_H\_\_}}
+\DoxyCodeLine{10 }
+\DoxyCodeLine{11 \textcolor{keywordtype}{int} main(\textcolor{keywordtype}{int} argc, \textcolor{keywordtype}{char} *argv[]) \{}
+\DoxyCodeLine{12     tt.time = 60;}
+\DoxyCodeLine{13     tt.avg\_word\_length = 4.79;}
+\DoxyCodeLine{14     tt.print\_index = 0;}
+\DoxyCodeLine{15     \textcolor{keywordtype}{int} no\_filename = 1;}
+\DoxyCodeLine{16     \textcolor{keywordflow}{for} (\textcolor{keywordtype}{int} i = 1; i < argc; i++) \{}
+\DoxyCodeLine{17         no\_filename = parse\_argument(argv[i]);}
+\DoxyCodeLine{18     \}}
+\DoxyCodeLine{19     \textcolor{keywordflow}{if} (no\_filename) \{}
+\DoxyCodeLine{20         print\_help();}
+\DoxyCodeLine{21         \textcolor{keywordflow}{return} 0;}
+\DoxyCodeLine{22     \}}
+\DoxyCodeLine{23 }
+\DoxyCodeLine{24     init\_terminal();}
+\DoxyCodeLine{25     parse\_text();}
+\DoxyCodeLine{26     print\_text();}
+\DoxyCodeLine{27 }
+\DoxyCodeLine{28     \textcolor{keywordflow}{while} (1) \{}
+\DoxyCodeLine{29         process\_keypress();}
+\DoxyCodeLine{30         \textcolor{keywordflow}{if} (check\_timer() || tt.pos == tt.length) \{}
+\DoxyCodeLine{31             print\_score();}
+\DoxyCodeLine{32         \}}
+\DoxyCodeLine{33     \}}
+\DoxyCodeLine{34 }
+\DoxyCodeLine{35     \textcolor{keywordflow}{return} 0;}
+\DoxyCodeLine{36 \}}
+
+\end{DoxyCode}
